@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicIoc", "MagicIoc\MagicIoc.csproj", "{D3747037-B3E0-4A55-B981-39D2C8D9365B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicIoc.Tests", "MagicIoc.Tests\MagicIoc.Tests.csproj", "{8CB5D75D-A097-45A7-9606-E8EB22B6E210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicIoc.SimpleExample", "MagicIoc.SimpleExample\MagicIoc.SimpleExample.csproj", "{29275A9B-F570-47A7-B65B-7D6BF842DC43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicIoc.AutoLoadExample", "MagicIoc.AutoLoadExample\MagicIoc.AutoLoadExample.csproj", "{24405042-850A-4078-A42B-58CD828753A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3747037-B3E0-4A55-B981-39D2C8D9365B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3747037-B3E0-4A55-B981-39D2C8D9365B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3747037-B3E0-4A55-B981-39D2C8D9365B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3747037-B3E0-4A55-B981-39D2C8D9365B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB5D75D-A097-45A7-9606-E8EB22B6E210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB5D75D-A097-45A7-9606-E8EB22B6E210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB5D75D-A097-45A7-9606-E8EB22B6E210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB5D75D-A097-45A7-9606-E8EB22B6E210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29275A9B-F570-47A7-B65B-7D6BF842DC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29275A9B-F570-47A7-B65B-7D6BF842DC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29275A9B-F570-47A7-B65B-7D6BF842DC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29275A9B-F570-47A7-B65B-7D6BF842DC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24405042-850A-4078-A42B-58CD828753A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24405042-850A-4078-A42B-58CD828753A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24405042-850A-4078-A42B-58CD828753A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24405042-850A-4078-A42B-58CD828753A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
